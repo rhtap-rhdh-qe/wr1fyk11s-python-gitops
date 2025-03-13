@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wr1fyk11s-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wr1fyk11s-python
